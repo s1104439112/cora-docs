@@ -10,7 +10,9 @@ Cora is an [NVDLA](https://nvdla.org/) extension for common algorithms in self-d
 
 SOC&Architecture: bg193
 
-RTL: 无聊的小黑, redpanda3, 
+RTL: 无聊的小黑, redpanda3
+
+jasonzhou5
 
 
 ##  Localization
