@@ -1,12 +1,16 @@
 # cora-docs
 
-`cora-docs` is built with [MkDocs](https://www.mkdocs.org/) - a documentation toolkit written in Python.
+`cora-docs` is built with [MkDocs](https://www.mkdocs.org/) - a documentation toolkit written in Python. 
+
+soDLA和cora的文档做得不好，一直被诟病。soDLA的文档可以挂在githubio上，本来的打算是，开一个nginx的docker用来挂载cora的doc，但是暂时还没有额外的机器。
+
+所以cora的文档需要clone下来进行本地浏览。如果想要业余时间使用手机看cora的文档的话，可以下载一个github手机版，在docs文件夹里直接翻看。如果是用于开发查阅的话，需要使用下边的步骤在浏览器查看。
 
 ## Development
 
 #### Install Python
 
-In order to develop on `cora-docs` you will need [Python](https://www.python.org/) and [Typora](https://typora.io/)
+In order to develop on `cora-docs` you will need [Python](https://www.python.org/)
 installed on your system.
 Version 3.8 is recommended because this is the version used by the live site,
 however MkDocs does also support versions 3.5 and later.
@@ -18,16 +22,16 @@ commands:
 ```bash
 $ python --version
 Python 3.8.2
-$ pip --version
+$ pip --version // 或 pip3 --version
 pip 20.0.2
 ```
 
 #### Install dependencies
 
-To install MkDocs and all of the other Python libraries required by `dcrdocs`:
+To install MkDocs and all of the other Python libraries required by `cora-docs`:
 
 ```bash
-$ pip install mkdocs && pip install --user -r requirements.txt
+$ pip install mkdocs && pip install --user -r requirements.txt // 或 pip3
 ```
 
 #### Getting started

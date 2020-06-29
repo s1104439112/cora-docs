@@ -2,25 +2,13 @@
 
 ---
 
-## A
+## E
 
 ---
 
-#### Account
+#### Example
 
 Accounts allow you to keep separate records of your DCR funds. Transferring DCR across accounts will create a transaction on the blockchain.
-
-#### Address
-
-A human-readable representation of a possible destination for a payment, similar to an email address. Unlike an email address however, there are a variety of address types, and most addresses are intended only for a single use. This is because addresses represent not only the destination of a payment, but constraints required to redeem funds. For more on addresses see the [address details](https://devdocs.decred.org/developer-guides/addresses/) page in the developer documentation.  
-
-#### ASIC
-
-An Application-Specific-Integrated-Circuit (ASIC) is a computing device which has been designed to perform only a single task with extreme efficiency. In the context of cryptocurrency, an ASIC is usually designed to perform Proof-of-Work (PoW) mining. Hashrates from ASICs are typically orders of magnitudes higher than hashrates from general purpose CPUs or GPUs.
-
-#### Atom
-
-The smallest unit of Decred currency. One atom is one hundred millionth of a single DCR (0.00000001 DCR).
 
 ## B
 
