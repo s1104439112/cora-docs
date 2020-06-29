@@ -7,8 +7,14 @@ Cora is an nvdla extension for common algorithms in self-driving cars, such as c
 
 ---
 
-## Control
-Corresponding to pid module, 
+##  Control
+Correspond to pid module.
+
+##  Localization
+Correspond to pid module.
+
+
+##  Path Planning
 
 [Proof of Work](mining/overview.md) miners play a similar role for Decred as they do for Bitcoin, but with Decred they only receive 60% of the block reward.
 
