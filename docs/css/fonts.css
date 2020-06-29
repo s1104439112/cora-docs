@@ -95,7 +95,7 @@ pre, code {
 }
 
 .md-typeset h6 {
-    color         : #596D81;
+    color         : rgb(41, 41, 41);
     font-size     : 16px;
     text-transform: none;
     font-weight   : bold;

@@ -6,8 +6,6 @@ theme:
   font: false
   features:
     - instant
-  icon:
-    repo: octicons/mark-github
 extra:
   decreditonversion: 1.5.1
   cliversion: 1.5.1
@@ -25,25 +23,6 @@ extra:
     "When you register with a VSP, it is essential to backup your \u0022[redeem script](/proof-of-stake/redeem-script)\u0022. Only you and your VSP know the redeem script, and it must be backed up to ensure you don't end up with locked funds. If your VSP goes down, you'll need the script to vote or revoke tickets."
   scriptWarning2:
     "Lost scripts which have been used at least once to vote or revoke tickets [can be recovered](/proof-of-stake/redeem-script#recovery-methods)."
-  social:
-    - icon: octicons/mark-github
-      link: https://github.com/decred
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/decredproject
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/decred
-    - icon: fontawesome/brands/reddit
-      link: https://www.reddit.com/r/decred/
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/decredchannel
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/decredproject/
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/decredproject/
-    - icon: fontawesome/brands/weibo
-      link: https://weibo.com/DecredProject
-repo_url: https://github.com/coraproject/cora-docs
-repo_name: coraproject/cora-docs
 markdown_extensions:
   - markdown.extensions.footnotes
   - markdown.extensions.smarty
@@ -214,7 +193,6 @@ nav:
 - Contributing:
   - 'Overview': 'contributing/overview.md'
   - 'Contributor Compensation': 'contributing/contributor-compensation.md'
-- 'Glossary': 'glossary.md'
 - About:
     - 'License': 'about/license.md'
 copyright: If you wish to improve this site, please <a href="https://github.com/coraproject/cora-docs">open an issue</a> or <a href="https://github.com/coraproject/cora-docs/compare">send a pull request</a>.<br>coradocs v0.0.0. Cora Project 2020.
