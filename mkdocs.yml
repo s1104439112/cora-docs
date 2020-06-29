@@ -1,8 +1,8 @@
 site_name: Cora Documentation
 theme:
   name: material
-  favicon: 'img/favicon.ico?v=s3ss'
-  logo: 'img/decred_logo_symbol_color_gradient_128.svg'
+  favicon: 'img/nprocessor-logos/logonobg.png'
+  logo: 'img/nprocessor-logos/logo2nobg.png'
   font: false
   features:
     - instant

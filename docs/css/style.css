@@ -3,12 +3,12 @@
 .md-footer-nav,
 .md-footer-meta,
 .md-nav__source {
-    background-color: #091440
+    background-color: #333333
 }
 
 /* Highlight current page in nav menu */
 .md-nav__link--active {
-    color      : #536dfe;
+    color      : #a50e00;
     font-weight: bold;
 }
 
