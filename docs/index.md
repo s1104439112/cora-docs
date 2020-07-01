@@ -1,4 +1,4 @@
-** This document is intended not for cora customers(who buys cora as an IP, or chip) at this moment, you need to get the permission to be a cora developer first, by sending a request to redpanda3.**
+** This document is not intended for cora customers(who buys cora as an IP, or chip) at this moment, you need to get the permission to be a cora developer first, by sending a request to redpanda3.**
 
 
 
