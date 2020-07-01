@@ -30,7 +30,10 @@ nav:
 - 'Home': 'index.md'
 - Getting Started:
   - "Beginner's Guide": 'getting-started/beginner-guide.md'
-  - "Working Directories": 'getting-started/berkeley-hardfloat.md'
+  - "Berkeley Hardfloat": 'getting-started/berkeley-hardfloat.md'
+
+- Register Table for CSB:
+  - "Register Table": 'register-table-for-csb/register-table.md'
 - FAQ:
   - 'General': 'faq/general.md'
 - Contributing:
