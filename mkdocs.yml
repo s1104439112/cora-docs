@@ -30,8 +30,8 @@ nav:
 - 'Home': 'index.md'
 - Getting Started:
   - "Beginner's Guide": 'getting-started/beginner-guide.md'
-  - "Berkeley Hardfloat": 'getting-started/berkeley-hardfloat.md'
-
+  - "Berkeley Hardfloat 解析": 'getting-started/berkeley-hardfloat-解析.md'
+  - "Berkeley Hardfloat 调用说明": 'getting-started/berkeley-hardfloat-调用说明.md'
 - Register Table for CSB:
   - "Register Table": 'register-table-for-csb/register-table.md'
 - FAQ:
