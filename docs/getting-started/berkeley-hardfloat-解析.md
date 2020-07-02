@@ -3,8 +3,8 @@
 
 ---
 
-Berkeley hard-float作为浮点运算单元，被cora使用。前端人员不必去了解整个hardfloat的运算和格式细节，
-只需要对hardfloat有一个大致了解即可。它在计算中使用一种**Recoded Formats**的格式，下边或使用**RecFN**代称。
+Berkeley hard-float作为浮点运算单元，被cora使用。**设计人员不必去了解整个hardfloat的运算和格式细节，
+只需要对hardfloat有一个大致了解即可**。它在计算中使用一种**Recoded Formats**的格式，下边或使用**RecFN**代称。
 在cora的rdma和wdma中，配备**ieee/RecFN**格式的转换器，用来完成格式转换。
 
 更详细的英文版本链接[在这里](http://www.jhauser.us/arithmetic/HardFloat-1/doc/HardFloat-Verilog.html)

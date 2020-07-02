@@ -8,7 +8,7 @@ Copyright © 2013-2015 The btcsuite developers.
 
 Copyright © 2015-2020 The Decred developers.
 
-Copyright © 2020 The Nprocessor developers.
+Copyright © 2020 The Cora developers.
 
 Permission to use, copy, modify, and distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
