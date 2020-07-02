@@ -1,5 +1,5 @@
 
-# Berkeley Hard-Float 调用说明
+# Applying Berkeley Hard-Float 
 
 ---
 
@@ -93,7 +93,7 @@ ds.io.sqrtOp := Bool(true)
 
 ## recfn/ieee Conversion
 
-Todo
+These are **combinational** circuits. Using 'recFNFromFN' and 'fNFromRecFN'.
 
 
 

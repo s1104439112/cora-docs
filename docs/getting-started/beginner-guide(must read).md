@@ -1,4 +1,4 @@
-# <img class="dcr-icon" src="/img/dcr-icons/Flag.svg" /> Beginner's Guide(必读)
+# <img class="dcr-icon" src="/img/dcr-icons/Flag.svg" /> Beginner's Guide(must read)
 
 ---
 
