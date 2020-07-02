@@ -34,6 +34,8 @@ nav:
   - "Applying Berkeley Hard-Float": 'getting-started/applying-berkeley-hardfloat.md'
   - "Applying ofdm cordic(need to be tested)": 'getting-started/applying-ofdm-cordic(need to be tested).md'
   - "Retiming Guide": 'getting-started/retiming-guide.md'
+- Cora Front-end:
+  - "Overview": 'cora-front-end/overview.md'
 - Register Table for CSB:
   - "Register Table": 'register-table-for-csb/register-table-for-csb.md'
 - Firesim/FPGA:
