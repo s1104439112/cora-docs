@@ -30,8 +30,8 @@ nav:
 - 'Home': 'index.md'
 - Getting Started:
   - "Beginner's Guide(must read)": 'getting-started/beginner-guide(must read).md'
-  - "Analysis of Berkeley Hard-Float": 'getting-started/analysis-of-berkeley-hardfloat.md'
-  - "Applying Berkeley Hard-Float": 'getting-started/applying-berkeley-hardfloat.md'
+  - "Analysis of Berkeley Hardfloat": 'getting-started/analysis-of-berkeley-hardfloat.md'
+  - "Applying Berkeley Hardfloat": 'getting-started/applying-berkeley-hardfloat.md'
   - "Applying ofdm cordic(need to be tested)": 'getting-started/applying-ofdm-cordic(need to be tested).md'
   - "Retiming Guide": 'getting-started/retiming-guide.md'
 - Cora Front-end:

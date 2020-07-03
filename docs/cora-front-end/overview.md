@@ -12,8 +12,8 @@ The [front-end](https://github.com/coraproject/cora) is developed under chisel, 
 ├─spec: specifications
 ├─apb2csb: apb2csb conversion
 ├─berkeley-hardfloat: berkeley hardfloat for calculations
-├─rocket/fpu: wrapped-up module of berkeley-hardfloat, allowing you to import hardfloat in chisel3
-├─nocif: external intefaces of xdmas
+├─rocket/fpu: wrapped-up module of berkeley-hardfloat, allowing you to utilize hardfloat in chisel3
+├─nocif: external intefaces of DMA group
 ├─ofdm
 |  ├─cordic: cordic modules for rectangular/polar conversions
 |  └ syncrom: rom for each of the iterative cordic stages

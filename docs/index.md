@@ -18,6 +18,7 @@ Mainly inherited from [soDLA](https://github.com/soDLA-publishment/soDLA), which
 
 **The verilog testbench of all the nprocessor projects(soDLA and cora)**, you need to install [cocotb](https://github.com/cocotb/cocotb) first. 
 
+
 ### **timestamped**
 
 Although patent can be a powerful method to protect IPs, however, applying for patent can be a painful work, we might lose concentrations into the **meaningful** development by putting too much effort into applying patent. 
@@ -25,6 +26,10 @@ Although patent can be a powerful method to protect IPs, however, applying for p
 The most important thing, is that we have to protect our own IPs by ourselves, not by other people.
 
 Timestamping those IPs can be a **weakly defensive method to avoid [patent troll](https://wiki.mbalib.com/wiki/%E4%B8%93%E5%88%A9%E6%B5%81%E6%B0%93)**. 
+
+### **others**
+
+Some back-end flows.
 
 ---
 
